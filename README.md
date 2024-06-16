@@ -72,7 +72,9 @@ laed alla powershell folderi ning paigutad kuhu soovid
 Avad powershelli administraatorina (Windows + X) ning teed jargnevad asjad:
 ```py
   cd C:User\sinunimi\asukoht\Toolbox-Main
-  .\mathiastoolbox2.3.ps1
+```
+```py
+.\mathiastoolbox2.3.ps1
 ```
 ## Kui ExecutePolicyga probleeme siis proovi seda:
 ```py
