@@ -71,10 +71,13 @@ laed alla powershell folderi ning paigutad kuhu soovid
 
 Avad powershelli administraatorina ning teed jargnevad asjad:
 ```py
-  cd [sinu kausta path]
+  cd C:User\sinunimi\asukoht\Toolbox-Main
   .\mathiastoolbox2.3.ps1
 ```
-    
+## Kui ExecutePolicyga probleeme siis proovi seda:
+```py
+Set-ExecutionPolicy RemoteSigned -Scope Process
+```
 ## Screenshots
 
 ![App pilt](https://cdn.discordapp.com/attachments/1037428610862170182/1251689352954646781/image.png?ex=666f7e0d&is=666e2c8d&hm=27779384e3a65f53a303455d43061c9c5f572305dd0aa12ee381ce4ce14da4ea&)
