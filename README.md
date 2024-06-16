@@ -1,5 +1,5 @@
 
-# Tsau Harle
+# Windows Powershell Toolbox
 
 Panite meile kodutööks teha PowerShell toolbox
 
