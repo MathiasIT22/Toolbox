@@ -69,7 +69,7 @@ System Info näitab infot seadme kohta
 laed alla powershell folderi ning paigutad kuhu soovid
 
 
-Avad powershelli administraatorina ning teed jargnevad asjad:
+Avad powershelli administraatorina (Windows + X) ning teed jargnevad asjad:
 ```py
   cd C:User\sinunimi\asukoht\Toolbox-Main
   .\mathiastoolbox2.3.ps1
