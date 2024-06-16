@@ -72,7 +72,7 @@ laed alla powershell folderi ning paigutad kuhu soovid
 Avad powershelli administraatorina ning teed jargnevad asjad:
 ```py
   cd [sinu kausta path]
-  .\mathiastoolbox2.3.py
+  .\mathiastoolbox2.3.ps1
 ```
     
 ## Screenshots
