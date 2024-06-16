@@ -71,7 +71,7 @@ laed alla powershell folderi ning paigutad kuhu soovid
 
 Avad powershelli administraatorina (Windows + X) ning teed jargnevad asjad:
 ```py
-  cd C:User\sinunimi\asukoht\Toolbox-Main
+cd C:\Users\SinuNimi\Asukoht\Toolbox-main
 ```
 ```py
 .\mathiastoolbox2.3.ps1
